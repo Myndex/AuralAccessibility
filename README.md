@@ -9,9 +9,14 @@ Aural Accessibility Research Project: A discussion area for ideas relating to gu
 
 ### _Aural Accessibility Guideline Issues Initial Thoughts_
 
-Aural contrasts are very complicated. It is not as simple as stating that one sound must be some number of decibels above some other sound. The frequencies and dynamic characteristics are also significant factors. An individual's gender and cognitive capabilities are significant factors, as are impairments that affect frequency sensitivity, and monaural/binaural function.
+Aural contrasts are very complicated. It is not as simple as stating that one sound must be some number of decibels above some other sound. The frequencies and dynamic characteristics are also significant factors. 
 
-Also, unlike visual contrast which can be temporally static, sound is *always* temporal in nature, and the complicated dynamics of a sonic event make some "testable" guideline elusive.
+Sound is the perception that requires the most user personalization and configuration, as is evidenced by the multitude of controls on a typical stereo.
+
+An individual's user needs vary significantly, even with "normal" aural function, as different uses process audio differently, with or without impairments that affect frequency sensitivity, and monaural/binaural function.
+
+Also, unlike visual contrast which can be temporally static, sound is *always* temporal in nature, and the complicated dynamics of a sonic event make an arbitrary "testable" guideline elusive. 
+
 
 ## GENERALLY:
 - A broadband noise (i.e. white or pink noise) at a given dB SPL will completely mask noises that are at least 40 dB lower in SPL.
